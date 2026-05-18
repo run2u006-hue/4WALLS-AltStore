@@ -22,9 +22,9 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
-          "marketingVersion": "1.0",
+          "version": "1.1",
+          "buildVersion": "2",
+          "marketingVersion": "1.1",
           "date": "2026-05-17",
           "localizedDescription": "First AltStore release.",
           "downloadURL": "https://github.com/run2u006-hue/4WALLS-AltStore/releases/latest/download/4Walls.ipa",
