@@ -1,7 +1,7 @@
 {
   "name": "4Walls Source",
   "subtitle": "4 Walls for AltStore.",
-  "description": "4 Walls is a music player with spatial audio and local stem separation.",
+  "description": "4 Walls is a music player with spatial audio and local AI stem separation.",
   "iconURL": "https://raw.githubusercontent.com/run2u006-hue/4WALLS-AltStore/main/icon.png",
   "headerURL": "https://raw.githubusercontent.com/run2u006-hue/4WALLS-AltStore/main/icon.png",
   "website": "https://github.com/run2u006-hue/4WALLS-AltStore",
@@ -15,7 +15,7 @@
       "bundleIdentifier": "com.fourwalls.app",
       "developerName": "run2u006-hue",
       "subtitle": "A music player with spatial audio.",
-      "localizedDescription": "4 Walls is a music player with spatial audio. It can also use a local AI model to separate songs into vocal and instrumental stems.",
+      "localizedDescription": "4 Walls is a music player with spatial audio. It can use a local AI model to separate songs into vocal and instrumental stems.",
       "iconURL": "https://raw.githubusercontent.com/run2u006-hue/4WALLS-AltStore/main/icon.png",
       "tintColor": "7C3AED",
       "category": "entertainment",
@@ -45,7 +45,7 @@
     {
       "title": "4 Walls is available on AltStore",
       "identifier": "fourwalls-altstore-source-0-1-0",
-      "caption": "A music player with spatial audio and local stem separation.",
+      "caption": "A music player with spatial audio and local AI stem separation.",
       "date": "2026-05-17",
       "tintColor": "7C3AED",
       "url": "https://github.com/run2u006-hue/4WALLS-AltStore",
